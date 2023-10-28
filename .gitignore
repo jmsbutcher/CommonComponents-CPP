@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# Other VS files
+*.pdb
+*.exp
+*.ilk
+packages
+**/*.vs
+.vs
+
+# Output directories
+x64
+Win32
+Debug
+Release
+
